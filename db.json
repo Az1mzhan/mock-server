@@ -3,34 +3,37 @@
     {
       "id": 0,
       "name": "Azimzhan",
-      "surname": "Mussabayev",
-      "age": 19
+      "surname": "Mussabayev"
     },
     {
       "id": 1,
       "name": "Bauyrzhan",
-      "surname": "Zhonkebayev",
-      "age": 18
+      "surname": "Zhonkebayev"
     },
     {
       "id": 2,
       "name": "Nadir",
-      "surname": "Kuat",
-      "age": 20
-    }
-  ],
-  "posts": [
-    {
-      "id": 0,
-      "text": "Lorem ipsum"
+      "surname": "Kuat"
     },
     {
-      "id": 1,
-      "text": "Senatus Populusque Romanus"
+      "id": 3,
+      "name": "Dias",
+      "surname": "Kabdeshev"
     },
     {
-      "id": 2,
-      "text": "AEDIS DIVI AVGUSTI RESTITUO"
+      "id": 4,
+      "name": "Dias",
+      "surname": "Kenzhebayev"
+    },
+    {
+      "id": 5,
+      "name": "Dias",
+      "surname": "Zhagaparov"
+    },
+    {
+      "id": 6,
+      "name": "Azamat",
+      "surname": "Aytaliyev"
     }
   ]
 }
