@@ -34,6 +34,36 @@
       "id": 6,
       "name": "Azamat",
       "surname": "Aytaliyev"
-    }
+    },
+    {
+      "id": 7,
+      "name": "Amira",
+      "surname": "Bekenova"
+    },
+    {
+      "id": 8,
+      "name": "Akerke",
+      "surname": "Orynbasarova"
+    },
+    {
+      "id": 9,
+      "name": "Tamiris",
+      "surname": "Kobdikova"
+    },
+    {
+      "id": 10,
+      "name": "Akbota",
+      "surname": "Zhaksylyk"
+    },
+    {
+      "id": 11,
+      "name": "Arman",
+      "surname": "Galimov"
+    },
+    {
+      "id": 12,
+      "name": "Timur",
+      "surname": "Zhumabekov"
+    },
   ]
 }
